@@ -15,6 +15,7 @@ npm i yargs
 npm i jimp
 y por último:
 node access.js run-server --k=123
+
 Integrantes 
 - Adriana Oviedo
 - Alejandra Barria
